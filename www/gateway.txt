@@ -1,4 +1,5 @@
 //ipfs.io/ipfs/@
+https://ipfs.workerhub.cn/ipfs/@
 http://gateway.ipfs.guide:8080/ipfs/@
 http://gateway.ipfs.so/ipfs/@
 http://140.143.251.50/ipfs/@
